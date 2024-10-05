@@ -29,11 +29,11 @@ export default function Home() {
             At BigMid, we are redefining innovation with a focus on solving real-world challenges through technology. Our mission is to create forward-thinking solutions that drive progress and transform industries. We believe in the power of disruptive ideas and are dedicated to pushing boundaries, delivering excellence, and making a lasting impact.
           </p>
           <p className="text-gray-400">
-            Really excited to get in touch with us? Send us an email at{' '}
+            Want to get in touch with us? Send us an email at{' '}
             <a href="mailto:bigmidcomm@gmail.com" className="underline">
               bigmidcomm@gmail.com
             </a>{' '}
-            or follow us at <strong>@BigMid</strong> on Facebook and Instagram for updates and news.
+            or follow us <strong>@BigMid</strong> on LinkedIn for updates and news.
           </p>
         </div>
       </main>
